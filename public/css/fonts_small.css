@@ -1,0 +1,76 @@
+body {
+font-size: 12px;
+}
+blockquote {
+font-size: 13px;
+}
+
+#global-nav {
+font-size: 11px;
+}
+
+#billboard h2 {
+line-height: 25px;
+font-size: 24px;
+letter-spacing: -1px;
+}
+#billboard h3 {
+line-height: 17px;
+font-size: 16px;
+letter-spacing: -1px;
+}
+
+#canvas h1, #footer_extra h1 {
+font-size: 20px;
+margin-bottom: 20px;
+}
+#canvas h2, #footer_extra h2 {
+font-size: 18px;
+margin-bottom: 18px;
+}
+#canvas h3, #footer_extra h3 {
+font-size: 16px;
+margin-bottom: 14px;
+}
+#canvas h4, #footer_extra h4 {
+font-size: 14px;
+font-weight: bold;
+}
+#footer_content {
+font-size: 11px;
+}
+
+#menu ul li li {
+font-size: 13px;
+}
+
+.button {
+font-size: 13px;
+}
+
+.note {
+font-size: 12px;
+}
+ul.archive .date {
+font-size: 13px;
+}
+ul.archive .published {
+font-size: 13px;
+}
+
+.readmore {
+font-size: 13px;
+}
+
+input, textarea { 
+font-size: 12px;
+}
+
+#main ul.albums h3 {
+font-size: 18px;
+line-height: 24px; /* 20px cuts off letters */
+}
+
+.nav {
+font-size: 14px;
+}
